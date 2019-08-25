@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 7b0895d76dbca6d4f81fe71f8900d027
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RotatingHead_Part_1
+    100004: RotatingHead_Part_10
+    100006: RotatingHead_Part_2
+    100008: RotatingHead_Part_3
+    100010: RotatingHead_Part_4
+    100012: RotatingHead_Part_5
+    100014: RotatingHead_Part_6
+    100016: RotatingHead_Part_7
+    100018: RotatingHead_Part_8
+    100020: RotatingHead_Part_9
+    100022: Tire_Part_1
+    100024: Tire_Part_10
+    100026: Tire_Part_2
+    100028: Tire_Part_3
+    100030: Tire_Part_4
+    100032: Tire_Part_5
+    100034: Tire_Part_6
+    100036: Tire_Part_7
+    100038: Tire_Part_8
+    100040: Tire_Part_9
+    400000: //RootNode
+    400002: RotatingHead_Part_1
+    400004: RotatingHead_Part_10
+    400006: RotatingHead_Part_2
+    400008: RotatingHead_Part_3
+    400010: RotatingHead_Part_4
+    400012: RotatingHead_Part_5
+    400014: RotatingHead_Part_6
+    400016: RotatingHead_Part_7
+    400018: RotatingHead_Part_8
+    400020: RotatingHead_Part_9
+    400022: Tire_Part_1
+    400024: Tire_Part_10
+    400026: Tire_Part_2
+    400028: Tire_Part_3
+    400030: Tire_Part_4
+    400032: Tire_Part_5
+    400034: Tire_Part_6
+    400036: Tire_Part_7
+    400038: Tire_Part_8
+    400040: Tire_Part_9
+    2100000: 04 - Default
+    2100002: 10 - Default
+    2100004: 02 - Default
+    2100006: 03 - Default
+    2100008: 11 - Default
+    2100010: 01 - Default
+    2100012: 08 - Default
+    2100014: 05 - Default
+    2100016: 07 - Default
+    2300000: RotatingHead_Part_1
+    2300002: RotatingHead_Part_10
+    2300004: RotatingHead_Part_2
+    2300006: RotatingHead_Part_3
+    2300008: RotatingHead_Part_4
+    2300010: RotatingHead_Part_5
+    2300012: RotatingHead_Part_6
+    2300014: RotatingHead_Part_7
+    2300016: RotatingHead_Part_8
+    2300018: RotatingHead_Part_9
+    2300020: Tire_Part_1
+    2300022: Tire_Part_10
+    2300024: Tire_Part_2
+    2300026: Tire_Part_3
+    2300028: Tire_Part_4
+    2300030: Tire_Part_5
+    2300032: Tire_Part_6
+    2300034: Tire_Part_7
+    2300036: Tire_Part_8
+    2300038: Tire_Part_9
+    3300000: RotatingHead_Part_1
+    3300002: RotatingHead_Part_10
+    3300004: RotatingHead_Part_2
+    3300006: RotatingHead_Part_3
+    3300008: RotatingHead_Part_4
+    3300010: RotatingHead_Part_5
+    3300012: RotatingHead_Part_6
+    3300014: RotatingHead_Part_7
+    3300016: RotatingHead_Part_8
+    3300018: RotatingHead_Part_9
+    3300020: Tire_Part_1
+    3300022: Tire_Part_10
+    3300024: Tire_Part_2
+    3300026: Tire_Part_3
+    3300028: Tire_Part_4
+    3300030: Tire_Part_5
+    3300032: Tire_Part_6
+    3300034: Tire_Part_7
+    3300036: Tire_Part_8
+    3300038: Tire_Part_9
+    4300000: RotatingHead_Part_1
+    4300002: RotatingHead_Part_2
+    4300004: RotatingHead_Part_3
+    4300006: RotatingHead_Part_4
+    4300008: RotatingHead_Part_5
+    4300010: RotatingHead_Part_6
+    4300012: RotatingHead_Part_7
+    4300014: RotatingHead_Part_8
+    4300016: RotatingHead_Part_9
+    4300018: RotatingHead_Part_10
+    4300020: Tire_Part_1
+    4300022: Tire_Part_2
+    4300024: Tire_Part_3
+    4300026: Tire_Part_4
+    4300028: Tire_Part_5
+    4300030: Tire_Part_6
+    4300032: Tire_Part_7
+    4300034: Tire_Part_8
+    4300036: Tire_Part_9
+    4300038: Tire_Part_10
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 28242ff0c8242f7438a153e1e817fcd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 32ba74e3a80e45e4086eb6013d5a99d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 6accebadbed01f749a60f5d7c79a30a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: 97d963e0a95eff74488c138bf53d6829, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - Default
+    second: {fileID: 2100000, guid: c485547a8f702d441a09f2426afa20da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 0c29326d367c8f049ba4d0a54fb43ffd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: dcbb6ca987dc3534184577d2fd89ba3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10 - Default
+    second: {fileID: 2100000, guid: 0fb036dc427f14e458e3510087ce8e0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11 - Default
+    second: {fileID: 2100000, guid: f1a11b1079976574eb0c13cab9d0bc42, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
