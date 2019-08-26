@@ -107,6 +107,9 @@ public class GunPickupScript : MonoBehaviour
         //avoid player being able to move during pickup
         _characterBehaviourScript.Acceleration = 0;
 
+        //avoid rotating camera mid pickup
+        _characterBehaviourScript.AllowCameraRotation = false;
+
         //avoid multiple pickupanimations to be played
         if (!WasHoldingPistol)
         {
@@ -125,6 +128,8 @@ public class GunPickupScript : MonoBehaviour
             RevertPistolRotation = true;
         }
         _characterBehaviourScript.Acceleration = 50;
+
+        _characterBehaviourScript.AllowCameraRotation = true;
     }
 
     private void RevertRotation()

@@ -5,6 +5,7 @@ using UnityEngine;
 public class CharacterBehaviourScript : MonoBehaviour
 {
     public bool AllowMovement = true;
+    public bool AllowCameraRotation = true;
 
     //animations
     private Animator _animator;
@@ -79,7 +80,10 @@ public class CharacterBehaviourScript : MonoBehaviour
             _animator.SetBool("isJumping", false);
         }
 
-        RotateCamera();
+        if (AllowCameraRotation)
+        {
+            RotateCamera();
+        }
 
         PlayerFalling();
     }

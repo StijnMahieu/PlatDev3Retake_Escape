@@ -148,10 +148,12 @@ public class PistolBehaviourScript : MonoBehaviour
     public void StartGunCooldown()
     {
         _gunCooldown = true;
+        _characterBehaviourScript.AllowCameraRotation = false;
     }
 
     public void EndGunCooldown()
     {
         _gunCooldown = false;
+        _characterBehaviourScript.AllowCameraRotation = true;
     }
 }
